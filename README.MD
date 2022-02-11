@@ -1,7 +1,10 @@
-I do private development work as well as offer up my framework on my discord! That's where I will be most active to answer any questions and where you will find scripts earlier than on the forums.
-https://discord.gg/WcPeqvzY6T
+## NoPixel Style Badge System
+
+This is a fan recreation of the NoPixel badge system for ESX servers, the command is /showbadge and can only be done when the item "badge" is in the Inventory and you're a police officer!
 
 
-All you have to do is add the resource to your resources folder and start the script in the config. To show the badge you have to be a police officer and do the command /pdbadge
+## Dependencies 
+- es_extended
+(Extremely easy to convert to QBCore)
 
 
