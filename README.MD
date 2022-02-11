@@ -4,7 +4,8 @@ This is a fan recreation of the NoPixel badge system for ESX servers, the comman
 
 
 ## Dependencies 
-- es_extended
+* [es_extended](https://github.com/rex2630/es_extended)
+---
 (Extremely easy to convert to QBCore)
 
 
